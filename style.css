@@ -189,6 +189,7 @@ font-size: large;
     height: 450px;
     width: 350px;
     background-color: rgb(255, 255, 255);
+    margin-bottom: 40px;
     box-shadow: 20px 20px 20px  rgb(0, 0, 0);
 }
 .box-img{
@@ -197,8 +198,49 @@ font-size: large;
     padding-bottom: 20px;
 }
 .title-box{
-   margin-left: 20px
+   margin-left: 20px;
 }
 .para-box{
     padding: 20px;
+}
+/* footer style */
+.foot{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    width: 100%;
+align-items: center;
+background-color: black; 
+padding: 20px;
+}
+.footer-title{
+    color:aliceblue;
+    padding-bottom: 20px;
+
+}
+.foot{
+    color:aliceblue;
+}
+.foot-list{
+
+   list-style:outside;
+   gap:20px;
+}
+.footer-list, li{
+    padding-top: 15px;
+
+}
+hr{
+    color: rgb(16, 158, 52);
+}
+.footer{
+    background-color: black;
+    padding: 50px;
+}
+.copy{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+
+
 }

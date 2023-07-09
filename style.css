@@ -133,7 +133,8 @@ padding-top: 20px;
 /* appoint-container style */
 .appoint-container{
     display: flex;
-    width: git;
+    width: 70%;
+    height: 100px;
     margin-left: 200px;
     margin-right: 200px;
     margin-top: -20px;
@@ -155,4 +156,24 @@ padding-top: 20px;
     color:aliceblue;
     padding-right: 5px;
     border-right: 2px solid white;
+    margin: 20px;
+}
+
+/* blog style */
+.blog-title{
+ color: rgb(0, 0, 0);
+ text-align: center;
+ padding-top: 40px;
+ font-size: 55px;
+ font-weight: bold;
+
+}
+.blog-text{
+    color: rgb(65, 65, 65);
+ text-align: center;
+ padding-top: 10px;
+font-size: large;
+ width: 50%;
+ margin: auto;
+
 }

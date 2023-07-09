@@ -28,6 +28,9 @@ font-family: 'Work Sans', sans-serif;
  font-weight: 600;
  font-size:medium;
 }
+.lists:hover{
+    color:tomato;
+}
               /* banner style */
 
 
@@ -63,6 +66,9 @@ font-family: 'Work Sans', sans-serif;
     font-weight: bold;
     font-size: 20px;
     border-radius: 10px;
+}
+.bttn:hover{
+    color: rgb(78, 70, 87);
 }
 
 /* ser-container-right */
@@ -207,7 +213,7 @@ font-size: large;
 
 /* footer style */
 
-git
+
 
 .foot{
     display: flex;

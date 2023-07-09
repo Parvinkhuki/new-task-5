@@ -177,3 +177,28 @@ font-size: large;
  margin: auto;
 
 }
+/* blog box style */
+.blog-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.box2{
+   
+    height: 450px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 20px 20px 20px  rgb(0, 0, 0);
+}
+.box-img{
+   
+    width: 100%;
+    padding-bottom: 20px;
+}
+.title-box{
+   margin-left: 20px
+}
+.para-box{
+    padding: 20px;
+}

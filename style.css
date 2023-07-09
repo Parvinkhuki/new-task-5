@@ -203,7 +203,12 @@ font-size: large;
 .para-box{
     padding: 20px;
 }
+
+
 /* footer style */
+
+
+
 .foot{
     display: flex;
     justify-content: space-around;

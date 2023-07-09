@@ -223,7 +223,7 @@ padding: 20px;
 }
 .foot-list{
 
-   list-style:outside;
+   list-style:none;
    gap:20px;
 }
 .footer-list, li{
